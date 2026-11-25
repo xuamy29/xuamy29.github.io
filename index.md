@@ -7,6 +7,6 @@ title: Home
 
 I'm a **biomedical engineering** and **Human Communication Sciences** student at Northwestern University
 
-![Headshot](/images/headshot.jpg)
+![Headshot](/image/IMG_9244.jpg)
 
 [See my projects](projects.html) · [About me](about.html)
